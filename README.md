@@ -81,6 +81,8 @@ class Me:
   <img src="./metrics.topics.svg" alt="starred topics" width="100%"/>
 </p>
 
+<br/>
+
 <!-- ░░░ СТАТА + СТРИК (единая бирюзовая палитра) ░░░ -->
 ### 📈 Stats
 
