@@ -67,33 +67,31 @@ class Me:
 
 <br/>
 
-<!-- ░░░ ИЗОМЕТРИЧЕСКИЙ КАЛЕНДАРЬ + STARRED TOPICS ░░░
-     ВАЖНО: эти две картинки появятся только ПОСЛЕ того, как
-     отработает workflow metrics.yml (инструкция в чате).
-     До первого запуска ссылки будут битыми — это нормально. -->
-### 📊 Activity
+<!-- ░░░ СЕТКА 2×2: стата / языки / стрик / изометрия ░░░
+     Картинки изометрии появятся после прогона metrics.yml.
+     До первого запуска ссылка будет битой — это норма. -->
+### 📊 Stats & Activity
 
-<p align="center">
-  <img src="./metrics.isocalendar.svg" alt="isometric commit calendar" width="500"/>
-</p>
-
-<p align="center">
-  <img src="./metrics.topics.svg" alt="starred topics" width="500"/>
-</p>
-
-<br/>
-
-<!-- ░░░ СТАТА + СТРИК (единая бирюзовая палитра) ░░░ -->
-### 📈 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MEGAJava505&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5C7&icon_color=00E5C7&text_color=9FEFE5" height="170" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEGAJava505&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5C7&text_color=9FEFE5" height="170" alt="top-langs"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MEGAJava505&hide_border=true&background=0D1117&stroke=00E5C7&ring=00E5C7&fire=00E5C7&currStreakLabel=00E5C7&sideLabels=9FEFE5&dates=8B949E&currStreakNum=ffffff&sideNums=ffffff" alt="streak"/>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=MEGAJava505&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5C7&icon_color=00E5C7&text_color=9FEFE5" width="100%" alt="stats"/>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEGAJava505&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5C7&text_color=9FEFE5" width="100%" alt="top-langs"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MEGAJava505&hide_border=true&background=0D1117&stroke=00E5C7&ring=00E5C7&fire=00E5C7&currStreakLabel=00E5C7&sideLabels=9FEFE5&dates=8B949E&currStreakNum=ffffff&sideNums=ffffff" width="55%" alt="streak"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="./metrics.isocalendar.svg" width="70%" alt="isometric commit calendar"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
