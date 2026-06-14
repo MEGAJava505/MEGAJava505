@@ -81,22 +81,6 @@ class Me:
   <img src="./metrics.topics.svg" alt="starred topics" width="100%"/>
 </p>
 
-<br/>
-
-<!-- ░░░ СВОДНАЯ КАРТОЧКА ПРОФИЛЯ ░░░ -->
-### 🗂 Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MEGAJava505&theme=github_dark" width="100%" alt="summary"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MEGAJava505&theme=github_dark" alt="langs"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MEGAJava505&theme=github_dark" alt="commit-lang"/>
-</p>
-
-<br/>
-
 <!-- ░░░ СТАТА + СТРИК (единая бирюзовая палитра) ░░░ -->
 ### 📈 Stats
 
