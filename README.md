@@ -74,11 +74,11 @@ class Me:
 ### 📊 Activity
 
 <p align="center">
-  <img src="./metrics.isocalendar.svg" alt="isometric commit calendar" width="100%"/>
+  <img src="./metrics.isocalendar.svg" alt="isometric commit calendar" width="500"/>
 </p>
 
 <p align="center">
-  <img src="./metrics.topics.svg" alt="starred topics" width="100%"/>
+  <img src="./metrics.topics.svg" alt="starred topics" width="500"/>
 </p>
 
 <br/>
@@ -96,12 +96,6 @@ class Me:
 </p>
 
 <br/>
-
-<!-- ░░░ ЗМЕЙКА, ЕСТ ГРАФ КОНТРИБУЦИЙ ░░░
-     Появится после настройки snake.yml (инструкция в чате). -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MEGAJava505/MEGAJava505/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake"/>
-</p>
 
 <!-- ░░░ ПОДВАЛ ░░░ -->
 <p align="center">
