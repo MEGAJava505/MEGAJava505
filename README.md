@@ -12,14 +12,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00E5C7&height=180&section=header&text=MEGAJava505&fontSize=50&fontColor=0D1117&animation=fadeIn&fontAlignY=35" width="100%" alt="header"/>
 </p>
 
-<!-- ░░░ ПЕЧАТАЮЩИЙСЯ ТЕКСТ (меняй строки после lines=) ░░░ -->
+<!-- ░░░ ПЕЧАТАЮЩИЙСЯ ТЕКСТ ░░░ -->
 <p align="center">
   <a href="https://github.com/MEGAJava505">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00E5C7&center=true&vCenter=true&width=620&lines=Computer+Science+Student;Aspiring+Data+Scientist;JavaScript+%C2%B7+Python+%C2%B7+C%2FC%2B%2B;Next.js+%C2%B7+React+%C2%B7+PHP" alt="typing"/>
   </a>
 </p>
 
-<!-- ░░░ ОДНОСТРОЧНОЕ ПРИВЕТСТВИЕ (без дубля стека) ░░░ -->
+<!-- ░░░ ПРИВЕТСТВИЕ ░░░ -->
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"/>
   CS-студент, иду в Data Science
@@ -37,18 +37,8 @@
     <td width="50%" valign="top">
       <h3 align="center">🛠 Tech Stack</h3>
       <p align="center">
-        <img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&animation=spin&svgfill=00E5C7&fill=0D1117" height="46" alt="js"/>
-        <img src="https://readme-components.vercel.app/api?component=logo&logo=python&animation=spin&svgfill=00E5C7&fill=0D1117" height="46" alt="python"/>
-        <img src="https://readme-components.vercel.app/api?component=logo&logo=react&animation=spin&svgfill=00E5C7&fill=0D1117" height="46" alt="react"/>
-        <img src="https://readme-components.vercel.app/api?component=logo&logo=nextjs&animation=spin&svgfill=00E5C7&fill=0D1117" height="46" alt="nextjs"/>
-        <img src="https://readme-components.vercel.app/api?component=logo&logo=php&animation=spin&svgfill=00E5C7&fill=0D1117" height="46" alt="php"/>
-        <img src="https://readme-components.vercel.app/api?component=logo&logo=c&animation=spin&svgfill=00E5C7&fill=0D1117" height="46" alt="c"/>
-        <img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus&animation=spin&svgfill=00E5C7&fill=0D1117" height="46" alt="cpp"/>
+        <img src="https://skillicons.dev/icons?i=js,python,c,cpp,nextjs,react,php&theme=dark" alt="stack"/>
       </p>
-      <!-- Если какая-то иконка выше пустая — значит этот логотип не в наборе.
-           Запасной набор (skillicons, рендерит все языки) — раскомментируй:
-      <p align="center"><img src="https://skillicons.dev/icons?i=js,python,c,cpp,nextjs,react,php&theme=dark"/></p>
-      -->
       <p align="center"><sub>📚 Сейчас учу — Data Science · pandas · numpy · scikit-learn</sub></p>
     </td>
     <td width="50%" valign="top">
@@ -76,14 +66,14 @@
 
 <br/>
 
-<!-- ░░░ ИЗОМЕТРИЧЕСКИЙ КАЛЕНДАРЬ (снизу) ░░░
+<!-- ░░░ ИЗОМЕТРИЧЕСКИЙ КАЛЕНДАРЬ ░░░
      Появится после прогона metrics.yml. До запуска ссылка битая — норма. -->
 <h3 align="center">🗓 Isometric Activity</h3>
 <p align="center">
   <img src="./metrics.isocalendar.svg" width="70%" alt="isometric commit calendar"/>
 </p>
 
-<!-- ░░░ ПОДВАЛ (анимированная волна) ░░░ -->
+<!-- ░░░ ПОДВАЛ ░░░ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00E5C7&height=120&section=footer" width="100%" alt="footer"/>
 </p>
