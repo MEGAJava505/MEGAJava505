@@ -37,8 +37,18 @@
     <td width="50%" valign="top">
       <h3 align="center">🛠 Tech Stack</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=js,python,c,cpp,nextjs,react,php&theme=dark" alt="stack"/>
+        <img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&animation=spin&svgfill=00E5C7&fill=0D1117" height="46" alt="js"/>
+        <img src="https://readme-components.vercel.app/api?component=logo&logo=python&animation=spin&svgfill=00E5C7&fill=0D1117" height="46" alt="python"/>
+        <img src="https://readme-components.vercel.app/api?component=logo&logo=react&animation=spin&svgfill=00E5C7&fill=0D1117" height="46" alt="react"/>
+        <img src="https://readme-components.vercel.app/api?component=logo&logo=nextjs&animation=spin&svgfill=00E5C7&fill=0D1117" height="46" alt="nextjs"/>
+        <img src="https://readme-components.vercel.app/api?component=logo&logo=php&animation=spin&svgfill=00E5C7&fill=0D1117" height="46" alt="php"/>
+        <img src="https://readme-components.vercel.app/api?component=logo&logo=c&animation=spin&svgfill=00E5C7&fill=0D1117" height="46" alt="c"/>
+        <img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus&animation=spin&svgfill=00E5C7&fill=0D1117" height="46" alt="cpp"/>
       </p>
+      <!-- Если какая-то иконка выше пустая — значит этот логотип не в наборе.
+           Запасной набор (skillicons, рендерит все языки) — раскомментируй:
+      <p align="center"><img src="https://skillicons.dev/icons?i=js,python,c,cpp,nextjs,react,php&theme=dark"/></p>
+      -->
       <p align="center"><sub>📚 Сейчас учу — Data Science · pandas · numpy · scikit-learn</sub></p>
     </td>
     <td width="50%" valign="top">
@@ -65,11 +75,6 @@
 </table>
 
 <br/>
-
-<!-- ░░░ АНИМИРОВАННЫЙ ГРАФ КОНТРИБУЦИЙ (рисуется линией) ░░░ -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MEGAJava505&bg_color=0D1117&color=00E5C7&line=00E5C7&point=9FEFE5&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="activity graph"/>
-</p>
 
 <!-- ░░░ ИЗОМЕТРИЧЕСКИЙ КАЛЕНДАРЬ (снизу) ░░░
      Появится после прогона metrics.yml. До запуска ссылка битая — норма. -->
